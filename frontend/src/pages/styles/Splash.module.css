@@ -1,0 +1,21 @@
+.container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #272727;
+}
+
+.startBtnWrapper {
+    width: 100%;
+    position: absolute;
+    bottom: 50px;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide {
+    width: 100%;
+    height: 100vh;
+}
